@@ -1,7 +1,7 @@
 team: "Md. Foysal Emon Shanto"
-policy: warehouse_sort.il_policy:load_dp
+policy: warehouse_sort.il_policy:load_dp_rgb
 
 levels:
-  easy:   { checkpoint: best_model.pt }
-  medium: { checkpoint: best_model.pt }
-  hard:   { checkpoint: best_model.pt }
+  easy:   { checkpoint: 20000.pt }
+  medium: { checkpoint: 20000.pt }
+  hard:   { checkpoint: 20000.pt }
