@@ -1,1 +1,1 @@
-wget -O 20000.pt sha256:001578aadad4403004e0cff5a4b4b7695748ab4cfd2395e6d87c9d642e402c05
+wget -O 20000.pt "https://github.com/Foysal348/marso-hack-2026-solution/releases/download/v1.0/20000.pt"
